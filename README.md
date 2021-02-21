@@ -1,5 +1,5 @@
 
-<p align="center"><img width="700" height="300" src="https://i.ibb.co/YNkQ2VX/maxresdefault.jpg" href="https://www.hackerrank.com/adarsh_2104"></img></p>
+<p align="center"><img width="700" height="300" src="https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/blob/main/SQl-HR.jpg" href="https://www.hackerrank.com/adarsh_2104"></img></p>
 
 # Hacker Rank SQL Challenge Solutions:
 ### [1. Basic Select Subdomain](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/tree/main/1.%20Basic%20Select)
