@@ -1,2 +1,13 @@
-# Journey-To-Hackerank-SQL-Gold-Badge
-This repository contains the solutions that I have submitted to obtain SQL Gold Badge on Hacker Rank Platform.
+
+<p align="center"><img width="700" height="300" src="https://i.ibb.co/YNkQ2VX/maxresdefault.jpg" href="https://www.hackerrank.com/adarsh_2104"></img></p>
+
+# Hacker Rank SQL Challenge Solutions:
+### [1. Basic Select Subdomain](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/tree/main/1.%20Basic%20Select)
+| Index | Sub Domain        | Language          | Challenge Name                          | Challenge      | Solution  | 
+| ------| ----------------- | ----------------- |-------------------------                | ----------:    | ----------:|
+| 1.    | Basic Select      | MySQL             | Revising the Select Query I             | [Challenge](https://www.hackerrank.com/challenges/revising-the-select-query)  | [Solution](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/blob/main/1.%20Basic%20Select/1.%20Revising%20the%20Select%20Query%20I.sql)  |
+
+
+
+### About This Repository
+This is mostly for my personal learning and future references. But in case you are stuck or want to compare them with your own solutions. Do check them out !! :star2::star2::star2:
