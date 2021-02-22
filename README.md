@@ -6,6 +6,7 @@
 | Index | Sub Domain        | Language          | Challenge Name                          | Challenge      | Solution  | 
 | ------| ----------------- | ----------------- |-------------------------                | ----------:    | ----------:|
 | 1.    | Basic Select      | MySQL             | Revising the Select Query I             | [Challenge](https://www.hackerrank.com/challenges/revising-the-select-query)  | [Solution](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/blob/main/1.%20Basic%20Select/1.%20Revising%20the%20Select%20Query%20I.sql)  |
+| 2.    | Basic Select      | MySQL             | Revising the Select Query II            | [Challenge](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)  | [Solution](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/blob/main/1.%20Basic%20Select/2.%20Revising%20the%20Select%20Query%20II.sql)  |
 
 
 
