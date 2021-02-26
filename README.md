@@ -9,6 +9,7 @@
 | 2.    | Basic Select      | MySQL             | Revising the Select Query II            | [Challenge](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)  | [Solution](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/blob/main/1.%20Basic%20Select/2.%20Revising%20the%20Select%20Query%20II.sql)  |
 | 3.    | Basic Select      | MySQL             | Select All                              | [Challenge](https://www.hackerrank.com/challenges/select-all-sql)  | [Solution](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/blob/main/1.%20Basic%20Select/3.%20Select%20All.sql)  |
 | 4.    | Basic Select      | MySQL             | Select By ID                            | [Challenge](https://www.hackerrank.com/challenges/select-by-id)  | [Solution](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/blob/main/1.%20Basic%20Select/4.%20Select%20By%20ID.sql)  |
+| 5.    | Basic Select      | MySQL             | Japanese Cities Attributes              | [Challenge](https://www.hackerrank.com/challenges/japanese-cities-attributes)  | [Solution](https://github.com/adarsh2104/journey-to-hackerank-SQL-gold-badge/blob/main/1.%20Basic%20Select/5.%20Japanese%20Cities'%20Attributes.sql)  |
 
 
 
